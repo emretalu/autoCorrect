@@ -1,0 +1,5 @@
+c:\users\emre\documents\visual studio 2010\Projects\autoCorrect\bin\Debug\autoCorrect.exe
+c:\users\emre\documents\visual studio 2010\Projects\autoCorrect\bin\Debug\autoCorrect.pdb
+c:\users\emre\documents\visual studio 2010\Projects\autoCorrect\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2010\Projects\autoCorrect\obj\x86\Debug\autoCorrect.exe
+c:\users\emre\documents\visual studio 2010\Projects\autoCorrect\obj\x86\Debug\autoCorrect.pdb
